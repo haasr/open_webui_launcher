@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Open WebUI Launcher
+Comment=Launch Open WebUI
+Exec=python /home/ryan/github/open_webui_launcher/launcher.py
+Icon=/usr/share/icons/custom_icons/open-webui.png
+Terminal=false
+Categories=Utility;Development;Web;
